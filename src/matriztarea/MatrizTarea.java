@@ -33,6 +33,7 @@ public class MatrizTarea {
 		String [] departamento = {"coban", "peten", "quiche", "izabal", "escuintla" };
 		numRandon = (int) Math.round(Math.random() * 5 ) ;
 		//aqui termina el random de departamentos
+                
 		System.out.print("Ingrese los 10 nombres que iran en la matriz\n");
 	
         // Ingresa en la matriz los titulos del programa        
