@@ -15,9 +15,10 @@ public class MatrizTarea {
     public static void main(String[] args) {
         
        Scanner entrada =new Scanner(System.in);
-		//funcion random
+		
+                 //funcion random
 		int rango= 2000,rangTd=1000;
-		//aqui termina
+		
 		
   // Con esto manejamos el tamaño que queremos la matris y la creamos
 		String matriz[][];
