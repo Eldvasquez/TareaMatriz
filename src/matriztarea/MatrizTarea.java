@@ -11,15 +11,13 @@ import java.util.Scanner;
  */
 public class MatrizTarea {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         
        Scanner entrada =new Scanner(System.in);
 		//funcion random
 		int rango= 2000,rangTd=1000;
-		String suma;
+		
 		
   // Con esto manejamos el tamaño que queremos la matris y la creamos
 		String matriz[][];
