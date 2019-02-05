@@ -17,7 +17,7 @@ public class MatrizTarea {
        Scanner entrada =new Scanner(System.in);
 		//funcion random
 		int rango= 2000,rangTd=1000;
-		
+		//aqui termina
 		
   // Con esto manejamos el tamaño que queremos la matris y la creamos
 		String matriz[][];
@@ -32,7 +32,7 @@ public class MatrizTarea {
 		int aux;
 		String [] departamento = {"coban", "peten", "quiche", "izabal", "escuintla" };
 		numRandon = (int) Math.round(Math.random() * 5 ) ;
-		
+		//aqui termina el random de departamentos
 		System.out.print("Ingrese los 10 nombres que iran en la matriz\n");
 	
         // Ingresa en la matriz los titulos del programa        
