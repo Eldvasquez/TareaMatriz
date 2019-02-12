@@ -1,7 +1,12 @@
 package TareaMatriz4;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
-public class tareaMatriz {
+public class tareaMatriz {/ **
+ *
+ * Jorge Ivan Vasquez Sosa (0901-16-4067)
+ * 04-02-2019
+ * Una matriz que calcula el sueldo liquido al azar
+ * /
 
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner (System.in);
